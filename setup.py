@@ -12,7 +12,6 @@ setup(
   download_url = 'https://github.com/MCasteras/safetylinespackage/archive/0.1.tar.gz',    # I explain this later on
   keywords = ['safetylines', 'ML', 'TEST'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
-          'json',
           'numpy',
           'sklearn',
       ],
