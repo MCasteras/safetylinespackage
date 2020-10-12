@@ -2,4 +2,4 @@
 setup.cfg
 setup.py
 safetylinespackage\__init__.py
-safetylinespackage\slpackage.py
+safetylinespackage\safetylpackage.py
